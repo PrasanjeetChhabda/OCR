@@ -15,7 +15,13 @@ Under Additional Language Data, select Hindi and Gujarati.
 ----------------------------------------------------------------------------------------------------------
 
 Once the installation is done, you need to install the basic requirements for the program to run. For that just type the command 'pip install -r requirements.txt' (I have included the requirement.txt file).
-Note: If 'pip install -r requirements.txt' is not working, then execute this command 'pip freeze > requirements.txt' and then execute 'pip install -r requirements.txt'.
+Basic requirements:
+
+Pytesseract
+Tesseract
+Tesseract-ocr
+Pillow
+
 
 After successful installation, you can recognize text from images by saving the images in the 'get' folder inside of 'Gujarati' and 'Hindi' directory.
 
