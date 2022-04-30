@@ -21,7 +21,7 @@ After successful installation, you can recognize text from images by saving the 
 
 Now simply run 'main.py' 
 
-If the program runs successfully, then you can find the text extracted from the images inside the 'post' folder.
+If the program runs successfully, then you can find the text extracted from the images inside the 'post' folder which is in output 'directory'.
 
 
 
